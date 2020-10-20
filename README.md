@@ -6,7 +6,7 @@ This is a simple Library management system created using php,html,css,javascript
   2. show the list of all the books.
   3.show the list of all branches.
   4.search feature to search books in different domain
-  5. show the list of all the employees and customers
+  5. show the list of all the employees and customers.
 # Description
 This is a simple DBMS project of library management system.
 the ER diagram and the SQL code is provided above.
