@@ -40,7 +40,7 @@ if((isset($_POST["submit"])))
 {
 $servername = "localhost:3306";
 $username = "root";
-$password = "9833@SHUb995";
+$password = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,"dbms_miniproject");

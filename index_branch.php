@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>EduLab</title>
+
          <link rel="stylesheet" href="style.css" type="text/css">
             <link rel="icon" href="img/icon.png"type="image/png">
 				<style>
@@ -56,7 +56,7 @@ tr:nth-child(even){background-color: #EAEDED }
 <?php
 $servername = "localhost:3306";
 $username = "root";
-$password = "9833@SHUb995";
+$password = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,"dbms_miniproject");

@@ -19,7 +19,7 @@ $dis_id=$_POST['distributer_id'];
 
 $servername = "localhost:3306";
 $username = "root";
-$password = "9833@SHUb995";
+$password = "";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,"dbms_miniproject");
